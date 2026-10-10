@@ -1,0 +1,6 @@
+{
+  "name": "VideoHub - Modern Video Streaming Platform",
+  "description": "Stream HD videos with custom HTML5 player, dynamic search, related videos, and ad unlock system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
